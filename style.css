@@ -17,6 +17,7 @@ header{
 
 
 .izlash > input{
+    /* outline: none; */
     width: 396px;
     height: 46px;
     flex-shrink: 0;
@@ -34,7 +35,6 @@ header{
     flex-shrink: 0;
     border-radius: 0px 8px 8px 0px;
 }
-
 .sotuv{
     width: 200px;
     align-items: center;
